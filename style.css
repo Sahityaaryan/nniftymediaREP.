@@ -1,10 +1,10 @@
 @font-face {
     font-family: poppins-light;
-    src: url(niftymedia/Poppins-Light.ttf);
+    src: url(Poppins-Light.ttf);
 }
 @font-face {
     font-family: poppins-bold;
-    src: url(niftymedia/Poppins-Bold.ttf);
+    src: url(Poppins-Bold.ttf);
 }
 html {
     font-size: 16px;
